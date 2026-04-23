@@ -1,35 +1,11 @@
-# Lost Item Logger System
+SECTION - 2 (BATCH 14)
+LIL-CAMP — Lost Item Logger System for College Campus
 
-## 📌 Project Description
-Lost Item Logger System is a Python-based application designed to record and manage lost and found items efficiently.
 
-The system allows users to:
-- Add Lost Items
-- Add Found Items
-- Search Items
-- Match Lost and Found Items
-- Generate Reports
-- Display Charts
+Team Details
 
-## 🛠 Technologies Used
-- Python
-- JSON
-- Matplotlib
-
-## ▶️ How to Run
-1. Install Python
-2. Install matplotlib:
-
-pip install matplotlib
-
-3. Run the program:
-
-python main.py
-
-## 📊 Features
-- Lost Item Recording
-- Found Item Recording
-- Search Function
-- Matching System
-- Reports Generation
-- Data Visualization
+2500032667 — MODASSIR ALAM  
+2500032737 — SHAIK ABDUL JALEEL  
+2500040037 — SHAIK SAMREEN SULTHANA  
+2500040081 — SEREDDY DEEPIKA  
+2500040189 — KARANAM ARAVIND
